@@ -1,0 +1,1 @@
+secrets = { 'ssid' : "FTTH-BALCONY-5G", 'password' : "Admin123" }
