@@ -23,3 +23,5 @@ https://wifipumpkin3.github.io/docs/getting-started
 https://github.com/techchipnet/Clipboard-Hijacker
 https://esp.huhn.me/
 https://cedarctic.github.io/digiQuack/
+https://github.com/aandrew-me/tgpt
+https://github.com/sbcshop/HackyPi-Software
